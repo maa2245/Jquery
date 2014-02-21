@@ -1,0 +1,23 @@
+{
+
+"myMovies" : [{
+					"name" : "LegoMovie",
+					"type" : "animated",
+					"star" : "WillFerrel"
+				}, {
+					"name" : "Frozen",
+					"type" : "animated",
+					"star" : "KristenBell"
+				}, {
+					"name" : "WolfOfWallStreet",
+					"type" : "LiveAction",
+					"star" : "LeoDiCaprio"
+				}, {
+					"name" : "AmericanHustle",
+					"type" : "LiveAction",
+					"star" : "ChristianBale"
+				}]
+
+
+
+}
